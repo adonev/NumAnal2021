@@ -11,3 +11,6 @@ We will:
 - save the world
 - learn math
 - learn matlab
+
+Test html include:
+{% include Resources.html %}
