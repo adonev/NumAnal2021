@@ -2,15 +2,9 @@
 title: Scientific Computing at NYU
 layout: default
 ---
-## Mission Statement
+## Scientific Computing (MATH-GA.2043/CSCI-GA.2112)
 
-Scientific Computing is cool
+This class will be online on zoom (scheduled via NYU classes) during the Fall of 2019, **Thursdays 5:10pm-7pm**.
+An additional session will be scheduled for group work (TBD).
 
-We will:
-
-- save the world
-- learn math
-- learn matlab
-
-Test html include:
 {% include Resources.html %}
