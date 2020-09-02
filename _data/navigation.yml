@@ -1,22 +1,16 @@
-docs_list_title: Sea Ice MURI
+docs_list_title: Scientific Computing at NYU
 docs:
 
 - title: Home
   url: index.html
+
+- title: Lectures
+  url: Lectures.html
  
-- title: People
-  url: people.html
-  
-- title: Projects
-  url: projects.html
-  
-- title: Publications
-  url: publications.html
-
-- title: Talks
-  url: talks.html
-
-- title: Software
-  url: software.html
+- title: Assignments
+  url: Assignments.html
+    
+- title: Syllabus
+  url: Syllabus.html
  
 
