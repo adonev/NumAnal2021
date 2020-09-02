@@ -1,0 +1,22 @@
+docs_list_title: Sea Ice MURI
+docs:
+
+- title: Home
+  url: index.html
+ 
+- title: People
+  url: people.html
+  
+- title: Projects
+  url: projects.html
+  
+- title: Publications
+  url: publications.html
+
+- title: Talks
+  url: talks.html
+
+- title: Software
+  url: software.html
+ 
+
