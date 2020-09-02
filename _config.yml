@@ -7,3 +7,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+encoding: UTF-8
