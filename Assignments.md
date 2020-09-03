@@ -1,4 +1,5 @@
 ---
+title: Assignments for Scientific Computing at NYU
 layout: default
 ---
 

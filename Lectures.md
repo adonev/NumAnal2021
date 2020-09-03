@@ -1,4 +1,5 @@
 ---
+title: Lectures for Scientific Computing at NYU
 layout: default
 ---
 

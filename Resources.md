@@ -1,5 +1,5 @@
 ---
-title: Scientific Computing at NYU
+title: Resources for Scientific Computing at NYU
 layout: default
 ---
 ## Learning and Computing Resources
