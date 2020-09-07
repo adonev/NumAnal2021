@@ -3,7 +3,7 @@ title: Lectures for Scientific Computing at NYU
 layout: default
 ---
 
-### 1 and 2. (Sept 3rd and 10th) [Numerical Computing](Lectures/Lecture-IEEE.handout.pdf)
+### 1 and 2. (Sept 3rd and 10th) [Numerical Computing](Lectures/Lecture-IEEE.handout.pdf) ([annotated](Lectures/Lecture-IEEE.annotated.pdf))
 
 In the main textbook, this is covered in chapters 5 and 6. I suggest
 instead reading part I (chapters 1-4) in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723). 
