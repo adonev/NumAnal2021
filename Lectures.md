@@ -13,7 +13,7 @@ For more information consult chapter 1 in the book by Driscoll or chapter I in [
 Here are some MATLAB scripts used as examples in the lecture notes: [Fibbonaci](Matlab/fibb.m), [integral](Matlab/Integral.m),  [vectorization](Matlab/vect.m), harmonic sum [double precision](Matlab/harmonic.m) and [single precision](Matlab/harmonicSP.m). 
 Also an example solution to the example homework problem on finite difference first derivative  in [double precision](Matlab/FirstDeriv.m) and [single precision](Matlab/FirstDerivSP.m).
 
-Here is a printout of the the Maple script studying [propagated error in HW1 problem 2](Homeworks/SStability-pi.pdf).
+Here is a printout of the the Maple script studying [propagated error in HW1 problem 2](Homeworks/Stability-pi.pdf).
 
 ### 1 and 2. (Sept 17th and 24th) [Solving Linear Systems](Lectures/Lecture-LinearSystems.pdf) ([annotated](Lectures/Lecture-LinearSystems.annotated.pdf))
 
