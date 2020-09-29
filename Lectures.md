@@ -29,3 +29,10 @@ For a more mathematical review of linear algebra consult
 and for a more in-depth discussion on performance consult [part 2 of notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/LinearAlgebra2.chapter.pdf)
 
 Here is the MATLAB code [MyLU.m](Matlab/MyLU.m).
+
+### 1 and 2. (Oct 1st) [Eigen and singular values](Lectures/Lecture-Eigenvalues.pdf) ([annotated](Lectures/Lecture-Eigenvalues.annotated.pdf))
+
+Look at 12.1 in the textbook for eigenvalues; Google's original Page
+Rank algorithm is covered in 12.1.5 and you may find it interesting.
+Also see section 5.5 for eigenvalues and 5.6 for SVD in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723).
+Here are is the MATLAB code for [Compression.m](Matlab/Compression.m)
