@@ -12,3 +12,7 @@ Take a look at the [sample solution](Assignments/SolutionSample.pdf) to the exam
 ### 2. (Due Oct 4th) [Linear Systems](Assignments/Homework-LinearSystems.pdf)
 
 Problem 1 and 3 can be solved based on material covered in the third lecture (LU factorization), and problem 2 after the fourth lecture (overdetermined linear systems).
+
+### 3. (Due Oct 18th) [Eigen and Singular Values](Assignments/Homework-Eigenvalues.pdf)
+
+Problem 1 is a continuation of problem 1 from the second homework. Problem 2 is hopefully fun and playfull and there are no precise answers. It is meant to get you to play with some "real world" data and see how PCA can reveal things in data but not always in an obvious way.
