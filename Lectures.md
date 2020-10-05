@@ -15,7 +15,7 @@ Also an example solution to the example homework problem on finite difference fi
 
 Here is a printout of the the Maple script studying [propagated error in HW1 problem 2](Assignments/Stability-pi.pdf).
 
-### 1 and 2. (Sept 17th and 24th) [Solving Linear Systems](Lectures/Lecture-LinearSystems.pdf) ([annotated](Lectures/Lecture-LinearSystems.annotated.pdf))
+### 3 and 4. (Sept 17th and 24th) [Solving Linear Systems](Lectures/Lecture-LinearSystems.pdf) ([annotated](Lectures/Lecture-LinearSystems.annotated.pdf))
 
 Please go through Section 1 (Review of Linear Algebra) **on your own** ahead of class.
 
@@ -30,9 +30,15 @@ and for a more in-depth discussion on performance consult [part 2 of notes by Jo
 
 Here is the MATLAB code [MyLU.m](Matlab/MyLU.m).
 
-### 1 and 2. (Oct 1st) [Eigen and singular values](Lectures/Lecture-Eigenvalues.pdf) ([annotated](Lectures/Lecture-Eigenvalues.annotated.pdf))
+### 5. (Oct 1st) [Eigen and singular values](Lectures/Lecture-Eigenvalues.pdf) ([annotated](Lectures/Lecture-Eigenvalues.annotated.pdf))
 
 Look at 12.1 in the textbook for eigenvalues; Google's original Page
 Rank algorithm is covered in 12.1.5 and you may find it interesting.
 Also see section 5.5 for eigenvalues and 5.6 for SVD in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723).
 Here are is the MATLAB code for [Compression.m](Matlab/Compression.m)
+
+### 6. (Oct 8th) [Solving Nonlinear Equations](Lectures/Lecture-NonLinear.pdf) ([annotated](Lectures/Lecture-NonLinear.annotated.pdf))
+
+The main textbook treats only equations in a single variable as a warmup in Chapter 4. Systems of nonlinear equations are not covered in the textbook but this is very important; see instead chapter 24 in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723), and in particular the discussion of continuation methods.
+
+Here is the MATLAB script [FZero.m](Matlab/FZero.m).
