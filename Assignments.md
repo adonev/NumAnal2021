@@ -21,4 +21,4 @@ Problem 1 is a continuation of problem 1 from the second homework. Problem 2 is 
 
 ### 4. (Due Nov 1st) [Nonlinear Equations and Optimization](Assignments/Homework-Optimization.pdf)
 
-If you wish to go further, learn about the standard strategy to adjust the regularization parameter in the [Levenberg-Marquardt algorithm]() and implement this and see if it converges more robustly (https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm).
+If you wish to go further, learn about the standard strategy to adjust the regularization parameter in the [Levenberg-Marquardt algorithm](https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm) and implement this and see if it converges more robustly.
