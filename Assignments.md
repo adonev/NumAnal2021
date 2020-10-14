@@ -18,3 +18,7 @@ Here is [code](Matlab/matinv.m) to compute the matrix inverse (taken from  [matr
 ### 3. (Due Oct 18th) [Eigen and Singular Values](Assignments/Homework-Eigenvalues.pdf)
 
 Problem 1 is a continuation of problem 1 from the second homework. Problem 2 is hopefully fun and playfull and there are no precise answers. It is meant to get you to play with some "real world" data and see how PCA can reveal things in data but not always in an obvious way.
+
+### 4. (Due Nov 1st) [Nonlinear Equations and Optimization](Assignments/Homework-Optimization.pdf)
+
+If you wish to go further, learn about the standard strategy to adjust the regularization parameter in the [Levenberg-Marquardt algorithm]() and implement this and see if it converges more robustly (https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm).

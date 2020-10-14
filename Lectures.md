@@ -42,3 +42,9 @@ Here are is the MATLAB code for [Compression.m](Matlab/Compression.m)
 The main textbook treats only equations in a single variable as a warmup in Chapter 4. Systems of nonlinear equations are not covered in the textbook but this is very important; see instead chapter 24 in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723), and in particular the discussion of continuation methods.
 
 Here is the MATLAB script [FZero.m](Matlab/FZero.m).
+
+### 7. (Oct 15th) [Optimization](Lectures/Lecture-Optimization.pdf) ([annotated](Lectures/Lecture-Optimization.annotated.pdf))
+
+Based on various sources, including these [notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/NonlinearEquations.chapter.pdf). Optimization is discussed in good detail in chapters 9 (unconstrained) and 10 (constrained, advanced) in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723).
+
+Here is the MATLAB script [Rosenbrock.m](Matlab/Rosenbrock.m).
