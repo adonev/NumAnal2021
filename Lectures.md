@@ -48,3 +48,8 @@ Here is the MATLAB script [FZero.m](Matlab/FZero.m).
 Based on various sources, including these [notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/NonlinearEquations.chapter.pdf). Optimization is discussed in good detail in chapters 9 (unconstrained) and 10 (constrained, advanced) in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723).
 
 Here is the MATLAB script [Rosenbrock.m](Matlab/Rosenbrock.m).
+
+###8. (Oct 22nd) Interpolation
+
+See chapter 8 of textbook and also these [notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/ApproximatingFunctions.chapter.pdf).
+Here are some MATLAB scripts used as examples in the lecture notes: [Runge1D.m](Matlab/Runge1D.m), [Hills2D.m](Matlab/Hills2D.m), [HillsIrreg2D.m](Matlab/HillsIrreg2D.m).
