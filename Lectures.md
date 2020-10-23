@@ -49,7 +49,7 @@ Based on various sources, including these [notes by Jonathan Goodman](http://www
 
 Here is the MATLAB script [Rosenbrock.m](Matlab/Rosenbrock.m).
 
-### 8. (Oct 22nd) [Interpolation (Function Approximation)](Lectures/Lecture-Approx.pdf)([annotated](Lectures/Lecture-Approx.annotated.pdf))
+### 8. (Oct 22nd) [Interpolation (Function Approximation)](Lectures/Lecture-Interp.pdf)([annotated](Lectures/Lecture-Interp.annotated.pdf))
 
 See chapter 8 of textbook and also these [notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/ApproximatingFunctions.chapter.pdf).
 
