@@ -49,12 +49,12 @@ Based on various sources, including these [notes by Jonathan Goodman](http://www
 
 Here is the MATLAB script [Rosenbrock.m](Matlab/Rosenbrock.m).
 
-### 8. (Oct 22nd) [Interpolation (Function Approximation)](Lectures/Lecture-Interp.pdf)([annotated](Lectures/Lecture-Interp.annotated.pdf))
+### 8. (Oct 22nd) [Interpolation (Function Approximation)](Lectures/Lecture-Interp.pdf) ([annotated](Lectures/Lecture-Interp.annotated.pdf))
 
 See chapter 8 of textbook and also these [notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/ApproximatingFunctions.chapter.pdf).
 
 Here are some MATLAB scripts used as examples in the lecture notes: [Runge1D.m](Matlab/Runge1D.m), [Hills2D.m](Matlab/Hills2D.m), [HillsIrreg2D.m](Matlab/HillsIrreg2D.m).
 
-### 9. (Oct 22nd) [Fast Fourier Transform](Lectures/Lecture-FFT.pdf)([annotated](Lectures/Lecture-FFT.annotated.pdf))
+### 9. (Oct 22nd) [Fast Fourier Transform](Lectures/Lecture-FFT.pdf) ([annotated](Lectures/Lecture-FFT.annotated.pdf))
 
 We will discuss Fourier Transforms, including the FFT algorithm, and briefly introduce wavelets. This is not covered in the textbooks, and is more advanced material not included in the final exam, and is optional in the homework. Nevertheless I believe it to be one of the most improtant tools in Numerical Analysis.
