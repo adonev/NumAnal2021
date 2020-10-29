@@ -22,3 +22,7 @@ Problem 1 is a continuation of problem 1 from the second homework. Problem 2 is 
 ### 4. (Due Nov 1st) [Nonlinear Equations and Optimization](Assignments/Homework-Optimization.pdf)
 
 If you wish to go further, learn about the standard strategy to adjust the regularization parameter in the [Levenberg-Marquardt algorithm](https://en.wikipedia.org/wiki/Levenberg%E2%80%93Marquardt_algorithm) and implement this and see if it converges more robustly.
+
+### 5. (Due Nov 22nd) [Function approximation](Assignments/Homework-Approx.pdf)
+
+Based on lecture notes on interpolation and Fourier transforms, but also relates to previous homeworks on fitting. If you want to learn more about Chebyshev interpolation, see section 8.5 of the textbook, and feel free to use the [chebfun package](https://www.chebfun.org) for the homework if you wish.
