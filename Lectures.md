@@ -55,6 +55,10 @@ See chapter 8 of textbook and also these [notes by Jonathan Goodman](http://www.
 
 Here are some MATLAB scripts used as examples in the lecture notes: [Runge1D.m](Matlab/Runge1D.m), [Hills2D.m](Matlab/Hills2D.m), [HillsIrreg2D.m](Matlab/HillsIrreg2D.m).
 
-### 9. (Oct 22nd) [Fast Fourier Transform](Lectures/Lecture-FFT.pdf) ([annotated](Lectures/Lecture-FFT.annotated.pdf))
+### 9. (Oct 29th) [Fast Fourier Transform](Lectures/Lecture-FFT.pdf) ([annotated](Lectures/Lecture-FFT.annotated.pdf))
 
 We will discuss Fourier Transforms, including the FFT algorithm, and briefly introduce wavelets. This is not covered in the textbooks, and is more advanced material not included in the final exam, and is optional in the homework. Nevertheless I believe it to be one of the most improtant tools in Numerical Analysis.
+
+### 10. (Nov 5th) [Integration (Quadrature)](Lectures/Lecture-Integration.pdf) ([annotated](Lectures/Lecture-Integration.annotated.pdf))
+
+Look at Chapter 10 in the textbook (we will not cover Gaussian quadrature in detail, but see section 10.3 in textbook). 
