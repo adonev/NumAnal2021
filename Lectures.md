@@ -62,3 +62,5 @@ We will discuss Fourier Transforms, including the FFT algorithm, and briefly int
 ### 10. (Nov 5th) [Integration (Quadrature)](Lectures/Lecture-Integration.pdf) ([annotated](Lectures/Lecture-Integration.annotated.pdf))
 
 Look at Chapter 10 in the textbook (we will not cover Gaussian quadrature in detail, but see section 10.3 in textbook). 
+
+You can generate the Gauss-Lobato quadrature points and weights using the MATLAB code [GLNodeWt.m](Matlab/GLNodeWt.m).
