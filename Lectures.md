@@ -64,3 +64,15 @@ We will discuss Fourier Transforms, including the FFT algorithm, and briefly int
 Look at Chapter 10 in the textbook (we will not cover Gaussian quadrature in detail, but see section 10.3 in textbook). 
 
 You can generate the Gauss-Lobato quadrature points and weights using the MATLAB code [GLNodeWt.m](Matlab/GLNodeWt.m).
+
+### 11. (Nov 12th) [Monte Carlo Methods](Lectures/Lecture-MC.pdf) ([annotated](Lectures/Lecture-MC.annotated.pdf))
+
+See chapter 16 in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723). My lecture notes are mostly based on these [lecture notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/MonteCarlo.chapter.pdf). Further technical details on variance reduction are in these (advanced) [notes by Goodman](http://www.math.nyu.edu/faculty/goodman/teaching/MonteCarlo07/notes/VarianceReduction.pdf). 
+
+### 12. (Nov 19 and Dec 3rd) ODEs
+
+No class Nov 26th (Thanksgiving)
+
+### 13 (Dec 10th) PDEs
+
+### 14 (Dec 17th) Final Project Presentations
