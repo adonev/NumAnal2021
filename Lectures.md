@@ -69,7 +69,9 @@ You can generate the Gauss-Lobato quadrature points and weights using the MATLAB
 
 See chapter 16 in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723). My lecture notes are mostly based on these [lecture notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/MonteCarlo.chapter.pdf). Further technical details on variance reduction are in these (advanced) [notes by Goodman](http://www.math.nyu.edu/faculty/goodman/teaching/MonteCarlo07/notes/VarianceReduction.pdf). 
 
-### 12. (Nov 19 and Dec 3rd) ODEs
+### 12. (Nov 19 and Dec 3rd) [Ordinary Differential Equations (ODEs)](Lectures/Lecture-ODE.pdf) ([annotated](Lectures/Lecture-ODE.annotated.pdf))
+
+See chapter 11 in the textbook or look at these lecture [notes by Jonathan Goodman](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/DifferentialEquations.chapter.pdf). See also chapter 20 in the [textbook by O'Leary](https://epubs.siam.org/doi/book/10.1137/9780898717723). A concise summary and two proofs of convergence of Euler's method not given in my lecture slides is in these [notes by David Bindel](http://www.cs.nyu.edu/courses/spring09/G22.2112-001/book/notes-de.pdf).
 
 No class Nov 26th (Thanksgiving)
 
