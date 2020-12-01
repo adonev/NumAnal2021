@@ -75,6 +75,8 @@ See chapter 11 in the textbook or look at these lecture [notes by Jonathan Goodm
 
 No class Nov 26th (Thanksgiving)
 
-### 13 (Dec 10th) PDEs
+### 13 (Dec 3rd and 10th) [Partial Differential Equations (PDEs)](Lectures/Lecture-PDE.pdf) ([annotated](Lectures/Lecture-PDE.annotated.pdf))
+
+Based on various sources, just a brief sketch. See chapter 14 in the textbook, along with chapter 13 for boundary value problems in one dimension.
 
 ### 14 (Dec 17th) Final Project Presentations
