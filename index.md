@@ -16,7 +16,7 @@ We will cover classical topics in Numerical Analysis: The solution of linear and
 
 ## Textbook
 
-Endre Suli and David Mayers (2003): An Introduction to Numerical Analysis. Cambridge University Press, 2003. Available electronically via NYU library proxy or from campus network in [PDF format] (https://www.cambridge.org/core/books/an-introduction-to-numerical-analysis/FD8BCAD7FE68002E2179DFF68B8B7237).
+An Introduction to Numerical Analysis, Endre Suli and David Mayers, Cambridge University Press, 2003. Available electronically via NYU library proxy or from campus network in [PDF format](https://www.cambridge.org/core/books/an-introduction-to-numerical-analysis/FD8BCAD7FE68002E2179DFF68B8B7237).
 
 Additional learning materials for programming in Matlab including textbooks and tutorials are available in the [Resources tab](Resources.md)
 
