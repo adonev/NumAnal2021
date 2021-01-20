@@ -14,9 +14,15 @@ The class content will be very similar to that taught by Prof. Georg Stadler [Fa
 
 We will cover classical topics in Numerical Analysis: The solution of linear and nonlinear equations, conditioning, least squares, numerical computation of eigenvalues, interpolation, quadrature, and numerical methods for ODEs. The course will have a focus on the analysis of numerical methods, but also require you to use numerical software (specifically Matlab, but if you have prior experience you are welcome to use Python (numpy), or Julia). If you are not familiar with any of these tools, the recitation will give an introduction to Matlab during the first weeks. Additionally, I  strongly recommend to work through one of the books listed below **before** the course starts or in the first weeks of the semester.
 
-## Textbook
+## Textbooks
 
-An Introduction to Numerical Analysis, Endre Suli and David Mayers, Cambridge University Press, 2003. Available electronically via NYU library proxy or from campus network in [PDF format](https://www.cambridge.org/core/books/an-introduction-to-numerical-analysis/FD8BCAD7FE68002E2179DFF68B8B7237).
+I will use two textbooks, both of which are freely available to you via the NYU library as ebooks, and I will refer to them as the "theory" and "practice" textbooks in this webpage.
+
+### Theory
+An Introduction to Numerical Analysis, Endre Suli and David Mayers, Cambridge University Press, 2003. Available electronically via NYU library proxy or from campus network in [PDF format](https://www.cambridge.org/core/books/an-introduction-to-numerical-analysis/FD8BCAD7FE68002E2179DFF68B8B7237). This textbook is mostly theoretical, with no coding in Matlab (though it does present some results from numerical computations), and so it lacks practice which I believe is crucial to this course.
+
+### Practice
+Numerical Methods: Design, Analysis, and Computer Implementation of Algorithms, Anne Greenbaum & Timothy P. Chartier, Princeton Press, 2012. This book is available to you freely in [electronic format](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=867854) via NYU's library. Codes can be found at the [author's website](http://academics.davidson.edu/math/chartier/Numerical).
 
 Additional learning materials for programming in Matlab including textbooks and tutorials are available in the [Resources tab](Resources.md)
 
