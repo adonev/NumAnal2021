@@ -12,7 +12,7 @@ The class content will be very similar to that taught by Prof. Georg Stadler [Fa
 
 ## Topics
 
-We will cover classical topics in Numerical Analysis: The solution of linear and nonlinear equations, conditioning, least squares, numerical computation of eigenvalues, interpolation, quadrature, and numerical methods for ODEs. The course will have a focus on the analysis of numerical methods, but also require you to use numerical software (specifically Matlab, but if you have prior experience you are welcome to use Python (numpy), or Julia). If you are not familiar with any of these tools, the recitation will give an introduction to Matlab during the first weeks. Additionally, I  strongly recommend to work through one of the books listed below **before** the course starts or in the first weeks of the semester.
+We will cover classical topics in Numerical Analysis: The solution of linear and nonlinear equations, conditioning, least squares, numerical computation of eigenvalues, interpolation, quadrature, and numerical methods for ODEs. The course will have a focus on the analysis of numerical methods, but also require you to use numerical software (specifically Matlab, but if you have prior experience you are welcome to use Python (numpy), or Julia). If you are not familiar with any of these tools, the recitation will give an introduction to Matlab during the first weeks. Additionally, I  strongly recommend to work through the second chapter of the "Practice" textbook listed on the [course webpage](https://adonev.github.io/NumAnal2021) the course starts or in the first week of the semester.
 
 ## Textbooks
 
