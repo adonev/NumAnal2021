@@ -12,9 +12,16 @@ The class content will be very similar to that taught by Prof. Georg Stadler [Fa
 
 ## Instruction
 
-### Instructor: Aleksandar Donev, ad139. Office hours TBD (see survey).
-### Teaching Assistant: Guanchun Li, gl1705. Office hourse TBD (see survey).
-### Grader: Jiasi Yu, jy2792, via Gradescope.
+### Instructor
+Aleksandar Donev, ad139. Office hours TBD (see survey).
+### Teaching Assistant
+Guanchun Li, gl1705. Office hourse TBD (see survey).
+### Grader
+Jiasi Yu, jy2792, via Gradescope.
+
+### Mode of instruction
+
+The plan for most of the class (except first and exam weeks) is that half of the lectures will be pre-recorded and every student will watch that on their own asynchronously. This would be continued on Mondays in class by a "live" lecture over zoom (recorded on NYU Classes) with some live computing demos. On Wednesdays we will have breakout room **group work** over zoom, where you will solve problem worksheets (including coding) and maybe also have some Matlab demos in groups. This will be an integral part of the course and every student should participate. For those that cannot make Wednesdays class due to difference in time zone, we will schedule a recitation section at a time suitable for students in China, and the TA will repeat the group work there.
 
 ## Topics
 
