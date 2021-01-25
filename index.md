@@ -14,7 +14,7 @@ The class content will be very similar to that taught by Prof. Georg Stadler [Fa
 
 ### Instructor: Aleksandar Donev, ad139. Office hours TBD (see survey).
 ### Teaching Assistant: Guanchun Li, gl1705. Office hourse TBD (see survey).
-### Grader: TBD
+### Grader: Jiasi Yu, jy2792, via Gradescope.
 
 ## Topics
 
