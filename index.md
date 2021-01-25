@@ -8,7 +8,7 @@ This class will be online on zoom (scheduled via NYU classes) during the Spring 
 
 All materials related to this course, including lecture notes, homeworks, schedule, etc., will be posted here. We will use [CampusWire](https://campuswire.com/) for a communication board for group work and questions (signup link will be sent via NYU Classes), and [Gradescope](https://www.gradescope.com) for submitting and grading of homeworks and midterm.
 
-The class content will be very similar to that taught by Prof. Georg Stadler [Fall 2018](https://cims.nyu.edu/~stadler/na18/), so consult that for an example of what to expect.
+The class content will be very similar to that taught by Profs. Georg Stadler [Fall 2018](https://cims.nyu.edu/~stadler/na18/) and Mike O'Neil [Spring 2020](https://cims.nyu.edu/~oneil/courses/sp20-ma4424/), so consult those websites for an example of what to expect in terms of content.
 
 ## Instruction
 
