@@ -5,7 +5,7 @@ layout: default
 
 ### 1 (Monday Feb 1st). [Introduction to numerical analysis](Lectures/Introduction.pdf)
 
-We will use the ancient yet still practical problem of [computing the square root](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method) to illustrate what numerical analysis is and look at first examples of [Matlab codes](Matlab/Nonlinear). This will lead us into the topic of solving nonlinear equations.
+We will use the ancient yet still practical problem of [computing the square root](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots#Babylonian_method) to illustrate what numerical analysis is and look at first examples of Matlab codes ([Babylonian.m](Matlab/Nonlinear/Babylonian.m),  [BabylonianPlot.m](Matlab/Nonlinear/BabylonianPlot.m), [NonBabylonian.m](Matlab/Nonlinear/NonBabylonian.m), [SqrtTwoVar.m](Matlab/Nonlinear/SqrtTwoVar.m)). This will lead us into the topic of solving nonlinear equations.
 
 Recitation leader will start doing Intro to Matlab. Here are some notes on [Peculiarities of Matlab](Lectures/Matlab.pdf) for those with some programming experience.
 
