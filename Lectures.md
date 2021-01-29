@@ -9,7 +9,7 @@ We will use the ancient yet still practical problem of [computing the square roo
 
 Recitation leader will start doing Intro to Matlab. Here are some notes on [Peculiarities of Matlab](Lectures/Matlab.pdf) for those with some programming experience.
 
-### 1 (Early Feb). [Solving Nonlinear Equations in 1D](Lectures/NonlinearEqs.pdf)
+### 2 (Early Feb). [Solving Nonlinear Equations in 1D](Lectures/NonlinearEqs.pdf)
 
 We will study (try out and analyze) several methods for solving equations with one variable: bisection (code [Bisection.m](Matlab/Nonlinear/Bisection.m)), Newton's method (Babylonian method is an example), and the secant and Regula Falsi methods (code [Secant.m](Matlab/Nonlinear/Secant.m) -- as an exercise, add Newton's method to the plot and compare its rate of convergence to the secant method).
 
