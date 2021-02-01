@@ -15,7 +15,7 @@ x=c; p=0.75; % p=3/4
 for k=1:k_max % Repeat calculation for k=1,2,3,...,100
    error_k(k) = abs((x-sqrt_c)/sqrt_c);
    x = p*x+(1-p)*c/x; % A variant of the Babylonian method
-   x_k(k) = x; % Matlab starts indexing arrays at index=0
+   x_k(k) = x; % Matlab starts indexing arrays at index=1
 end
 
 figure(1); clf; % Open and/or clear old figure

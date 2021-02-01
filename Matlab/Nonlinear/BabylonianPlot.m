@@ -13,7 +13,7 @@ x=1e5; % Initial guess x[k=0] is way off
 for k=1:k_max % Repeat calculation for k=1,2,3,...,100
    error_k(k) = abs((x-sqrt_c)/sqrt_c);
    x = (x+c/x)/2; % Babylonian method
-   x_k(k) = x; % Matlab starts indexing arrays at index=0
+   x_k(k) = x; % Matlab starts indexing arrays at index=1
 end
 
 figure(1); clf; % Open and/or clear old figure
