@@ -10,12 +10,12 @@ c=2.999 % We get only ~10 digits
 sqrt_c=sqrt(c)
 
 k_max=30;
-error_k=zeros(k_max,1); % Relative error e(k) = |x[k-1]-sqrt(c)|
+error_k=zeros(k_max,1); % Relative error
 
 x=c;
 y=c-1;
 for k=1:k_max % Repeat calculation for k=1,2,3,...,100
-   error_k(k) = abs((x-sqrt_c)/sqrt_c);
+   error_k(k) = abs((x-sqrt_c)/sqrt_c); % Relative error
    x = x - x*y/2;
    y = y^2*(y-3)/4;
 end
