@@ -6,7 +6,7 @@ f = @(x) x^2-c; % Defines a "function handle"
 
 x_exact = sqrt(c) % Only one solution
 
-% We know 0<x<c
+% We know 0<x<c since c>1
 [x,a,b] = SimpleBisection(f,0,c,10)
 
 tol=1e-3
@@ -23,7 +23,7 @@ function [x,a,b] = SimpleBisection(f,a,b,n,tol)
       x=(a+b)/2; % midpoint of interval
 
       % Stop as soon as we have reached desired tlerance
-      if exist('tol','var')
+      if exist('tol','var') % tol(erance) is an optional argument
          if((b-a)/2<tol)
             n_iter=k % Print out how many iterations we took
             break % Already accurate enough
