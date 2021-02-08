@@ -9,7 +9,7 @@ We will use the ancient yet still practical problem of [computing the square roo
 
 Recitation leader will start doing Intro to Matlab ([week 1 intro](Matlab/matlab_tutorial_demo_week1.m)). Here are some notes on [Peculiarities of Matlab](Lectures/Matlab.pdf) for those with some programming experience.
 
-### 2 ([Feb 8](Lectures/Nonlinear1D2021.pdf)). [Solving Nonlinear Equations in 1D](Lectures/NonlinearEqs.pdf)
+### 2 ([Feb 8 and 10](Lectures/Nonlinear1D2021.pdf)). [Solving Nonlinear Equations in 1D](Lectures/NonlinearEqs.pdf)
 
 We will study (try out and analyze) several methods for solving equations with one variable: bisection (code [Bisection.m](Matlab/Nonlinear/Bisection.m)), Newton's method (Babylonian method is an example), and the secant and Regula Falsi methods (code [Secant.m](Matlab/Nonlinear/Secant.m) -- as an exercise, add Newton's method to the plot and compare its rate of convergence to the secant method).
 
@@ -20,12 +20,11 @@ This covers sections 1.1 and 1.4-1.6 in Theory textbook (Suli & Mayers), but see
 These are some typed-up notes based on my Scientific Computing class that cover solving nonlinear equations including systems of equations. Useful as a reference/summary **after** you cover and understand the class material.
 
 ### No class Mon Feb 15th (Break)
-No assignments over 3-day "Spring Break" weekend.
 
-### Thursday Feb 18th (makeup class). TBD
+### 3 (Feb 17th and pre-recorded lecture). Roundoff errors
+
+### Thursday Feb 18th (makeup class): First worksheet
 
 ### Wednesday March 17th. Midterm exam (time may change)
 
 ### No class Mon April 19th (Break)
-No assignments over 3-day "Spring Break" weekend.
-

@@ -4,7 +4,7 @@ layout: default
 ---
 # Numerical Analysis (MATH-UA.0252/MA-UY_4424)
 
-This class will be online on zoom (scheduled via NYU classes) during the Spring of 2021, **Mon+Wed 2-3:15pm**. Recitation is tentatively presently scheduled for Fridays 11am-12:15pm but may be re-scheduled shortly to better fit remote students. For some important dates see the [Lectures](Lectures.md) tab.
+This class will be online on zoom (scheduled via NYU classes) during the Spring of 2021, **Mon+Wed 2-3:15pm**. Recitation will be Fridays 11am-12:15pm during the first two sessions, and then switch to **Tue 9:15am-10:30am** to better fit remote students. For some important dates see the [Lectures](Lectures.md) tab.
 
 All materials related to this course, including lecture notes, homeworks, schedule, etc., will be posted here. We will use [CampusWire](https://campuswire.com/) for a communication board for group work and questions (signup link will be sent via NYU Classes), and [Gradescope](https://www.gradescope.com) for submitting and grading of homeworks and midterm.
 
@@ -13,9 +13,9 @@ The class content will be very similar to that taught by Profs. Georg Stadler [F
 ## Instruction
 
 ### Instructor
-Aleksandar Donev, ad139. Office hours TBD (see survey).
+Aleksandar Donev, ad139. Office hours Fridays 12:30pm-1:30pm EST starting 2/19/2021, unless noted otherwise on Campuswire. Feel free to request an appointment by email.
 ### Teaching Assistant
-Guanchun Li, gl1705. Office hourse TBD (see survey).
+Guanchun Li, gl1705. Office hourse TBD.
 ### Grader
 Jiasi Yu, jy2792, via Gradescope.
 
