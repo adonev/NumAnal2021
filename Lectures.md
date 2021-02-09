@@ -21,7 +21,7 @@ These are some typed-up notes based on my Scientific Computing class that cover 
 
 ### No class Mon Feb 15th (Break)
 
-### 3 (Feb 17th and pre-recorded lecture). Roundoff errors
+### 3 (Feb 17th and pre-recorded lecture). [Roundoff errors](Lectures/FloatingPoint.pdf)
 
 ### Thursday Feb 18th (makeup class): [Worksheet 1](Worksheets/worksheet1.pdf)
 
