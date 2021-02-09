@@ -15,7 +15,7 @@ The class content will be very similar to that taught by Profs. Georg Stadler [F
 ### Instructor
 Aleksandar Donev, ad139. Office hours Fridays 12:30pm-1:30pm EST starting 2/19/2021, unless noted otherwise on Campuswire. Feel free to request an appointment by email.
 ### Teaching Assistant
-Guanchun Li, gl1705. Office hourse TBD.
+Guanchun Li, gl1705. Office hours Tuesdays 11am-12pm EST starting 2/16.
 ### Grader
 Jiasi Yu, jy2792, via Gradescope.
 
