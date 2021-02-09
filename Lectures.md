@@ -23,7 +23,9 @@ These are some typed-up notes based on my Scientific Computing class that cover 
 
 ### 3 (Feb 17th and pre-recorded lecture). Roundoff errors
 
-### Thursday Feb 18th (makeup class): First worksheet
+### Thursday Feb 18th (makeup class): [Worksheet 1](Worksheets/worksheet1.pdf)
+
+### ...
 
 ### Wednesday March 17th. Midterm exam (time may change)
 

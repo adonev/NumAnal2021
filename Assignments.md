@@ -10,7 +10,9 @@ Homeworks will be submitted and graded via [Gradescope](https://www.gradescope.c
 * Each student must write the solutions independently. Copying of any portion of someone else's solution or allowing others to copy your solution is considered cheating.
 * Code sharing is not allowed. You must type (or create from things you've typed using an editor, script, etc.) every character of code you use. There is no substitute for **debugging** your own code; looking at or copying someone else's code is not the same. 
 
-### 1. TBD
+### 1. (posted Feb 9, due Feb 22 at 2pm EST)  [Solving nonlinear equations in one dimension](Assignments/assignment1.pdf)
+
+Submit the solution on Gradescope.
 
 <!---
 

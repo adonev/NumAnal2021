@@ -62,10 +62,11 @@ function [x,a,b,n_iter,x_history] = SecantBisection(f,a,b,n,secant,tol)
    f_b=f(b);
    n_iter=n;
    for k=1:n
-   
-      if(secant) % Set x[k]=a and x[k-a]=b (or vice versa)
+          
+      if(secant) % Secant: Find zero of linear approximation
+         % Note: One can use Newton's method here just as well
          x=a-f_a*(a-b)/(f_a-f_b); % secant method
-      else
+      else % Simple bisection
          x=(a+b)/2; % midpoint of interval
       end
       x_history(k)=x;
