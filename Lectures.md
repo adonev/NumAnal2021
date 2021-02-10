@@ -9,11 +9,11 @@ We will use the ancient yet still practical problem of [computing the square roo
 
 Recitation leader will start doing Intro to Matlab ([week 1 intro](Matlab/matlab_tutorial_demo_week1.m)). Here are some notes on [Peculiarities of Matlab](Lectures/Matlab.pdf) for those with some programming experience.
 
-### 2 ([Feb 8 and 10](Lectures/Nonlinear1D2021.pdf)). [Solving Nonlinear Equations in 1D](Lectures/NonlinearEqs.pdf)
+### 2 ([Feb 8 and 10 and pre-recorded lecture](Lectures/Nonlinear1D2021.pdf)). [Solving Nonlinear Equations in 1D](Lectures/NonlinearEqs.pdf)
 
 We will study (try out and analyze) several methods for solving equations with one variable: bisection (code [Bisection.m](Matlab/Nonlinear/Bisection.m)), Newton's method (Babylonian method is an example), and the secant and Regula Falsi methods (code [Secant.m](Matlab/Nonlinear/Secant.m) -- as an exercise, add Newton's method to the plot and compare its rate of convergence to the secant method).
 
-This covers sections 1.1 and 1.4-1.6 in Theory textbook (Suli & Mayers), but see also Definition 1.4. We will come back to fixed-point iteration (sections 1.2 and 1.3) as time permits, but for one example see the code [NonBabylonian.m](Matlab/Nonlinear/NonBabylonian.m) from the previous lecture.
+This covers sections 1.1 and 1.4-1.6 in Theory textbook (Suli & Mayers), but see also Definition 1.4. Fixed-point iteration (sections 1.2 and 1.3) will be briefly covered in a pre-recorded lecture; for an example see the code [NonBabylonian.m](Matlab/Nonlinear/NonBabylonian.m) from the previous lecture.
 
 ### Extra [notes on solving nonlinear equations](Lectures/Nonlinear1D.pdf)
 
