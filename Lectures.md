@@ -23,6 +23,8 @@ These are some typed-up notes based on my Scientific Computing class that cover 
 
 ### 3 (Feb 17th and pre-recorded lecture). [Roundoff errors](Lectures/FloatingPoint.pdf)
 
+Here is the code [harmonic.m](Matlab/harmonic.m). To try single precision on your own, use [harmonicSP.m](Matlab/harmonicSP.m).
+
 ### Thursday Feb 18th (makeup class): [Worksheet 1](Worksheets/worksheet1.pdf)
 
 ### ...
