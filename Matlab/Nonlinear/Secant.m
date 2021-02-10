@@ -14,11 +14,17 @@ x_falsi=zeros(n_maxiter,1);
 
 % ------------------------
 x_old=0; % x[k-1]
-f_old=f(x_old);
+f_old=f(x_old); % f[k-1]
 x=c; % x[k]
 n_iter=n_maxiter;
-for k=1:n_iter
+for k=1:n_maxiter
    f_x = f(x);
+   
+   if(abs(f_x)<tol) % termination criterion
+      n_iter=k-1
+      break
+   end    
+   
    x_new = x-f_x*(x-x_old)/(f_x-f_old);
    
    f_old=f_x;
@@ -26,10 +32,7 @@ for k=1:n_iter
    x=x_new;
    
    x_secant(k)=x;
-   if(abs(f_old)<tol)
-      n_iter=k
-      break
-   end 
+
 end     
 x_secant(1:n_iter)
 
