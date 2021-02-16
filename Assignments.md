@@ -14,7 +14,7 @@ Homeworks will be submitted and graded via [Gradescope](https://www.gradescope.c
 
 ## Instructions
 
-Sometimes you will be required to submit code files but you are always encouraged do that if you used code to compute your answers. Instructions on how to do submit code files will follow. Always submit plain text files (extension .m for Matlab, or .py for python), and do not submit things like Matlab worksheets that cannot be opened in a simple text editor. Each problem should be a separate code, and please name your files reasonably so the grader can find the codes as needed.
+Sometimes you will be required to submit code files but you are always encouraged do that if you used code to compute your answers. There will be a separate zero-point assignment on Gradescope for submitting codes; codes must be submitted to get points. **Always submit plain text files** (extension .m for Matlab, or .py for python), and do not submit things like Matlab worksheets that cannot be opened in a simple text editor. Each problem should be a separate code, and please name your files reasonably so the grader can find the codes as needed.
 
 Present your information effectively:
 
