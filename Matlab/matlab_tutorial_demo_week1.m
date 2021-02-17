@@ -104,6 +104,7 @@ legend('sin(x)', 'cos(x)');
 f = 71;
 c = (f-32)/1.8;
 tempText = "Temperature is " + c + "C";
+fprintf(['the 10th item of Fibonacci seq is ', num2str(f(10)), '\n']);
 
 %% For loop
 
@@ -116,16 +117,26 @@ f(2) = 1;
 for n = 3:N
     f(n) = f(n-1) + f(n-2);
 end
-f(1:10)
+
+n = 3;
+while n  < N+1
+    f(n) = f(n-1) + f(n-2);
+    n = n+1;
+end
+f(1:10);
 
 %% If-else Structure
 
-num = randi(100);
+num = randi(100); % draw a random integer from 1 to 100
 if num < 34
    sz = 'low';
 elseif num < 67
    sz = 'medium';
+elseif num < 80
+    sz = 'higher than medium';
 else
    sz = 'high';
 end
 fprintf([sz, '\n']);
+
+fprintf("Hello world!");
