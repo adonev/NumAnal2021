@@ -25,15 +25,15 @@ These are some typed-up notes based on my Scientific Computing class that cover 
 
 Floating-point arithmetic is covered in Chapter 5 of the Practice textbook, in more detail than we will go through in class. Here is the code [harmonic.m](Matlab/harmonic.m) and [harmonicSP.m](Matlab/harmonicSP.m) for single precision, which makes it easier to see the roundoff errors.
 
-### (Thursday Feb 18th (makeup class)) [Worksheet 1](Worksheets/worksheet1.pdf)
+### 4 (Thursday Feb 18th (makeup class)) [Worksheet 1](Worksheets/worksheet1.pdf)
 
 It is best to start working on the code (part 2) on your own before class, especially if you are new to Matlab/programming.
 
-### ([Pre-recorded lecture Feb 18](Lectures/LinearAlgebra2021.pdf)): [(Review of) Linear Algebra](Lectures/LinearAlgebra.pdf)
+### 5 ([Pre-recorded lecture Feb 18](Lectures/LinearAlgebra2021.pdf)): [(Review of) Linear Algebra](Lectures/LinearAlgebra.pdf)
 
 Some of this is covered in Section 2.7 of the Theory textbook. For stability, also see Chapter 6 in Practice textbook. Being comfortable with linear algebra will be very important until midterm so it is important to review all of the PDF notes on your own.
 
-### (Feb 22 and 25 (pre-recorded) and March 1) Solving **square** linear systems
+### 6 (Feb 22 and 25 (pre-recorded) and March 1) Solving **square** linear systems
 
 I think this is explained better and more straightforwardly in the Practice textbook Chapter 7 than in Chapter 2 of Theory textbook. However, I will not directly follow either one. Here is the code [MyLU.m](Matlab/MyLU.m).
 
