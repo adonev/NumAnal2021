@@ -35,7 +35,7 @@ Some of this is covered in Section 2.7 of the Theory textbook. For stability, al
 
 ### (Feb 22 and 25 (pre-recorded) and March 1) Solving **square** linear systems
 
-I think this is explained better and more straightforwardly in the Practice textbook Chapter 7 than in Chapter 2 of Theory textbook. However, I will not directly follow either one.
+I think this is explained better and more straightforwardly in the Practice textbook Chapter 7 than in Chapter 2 of Theory textbook. However, I will not directly follow either one. Here is the code [MyLU.m](Matlab/MyLU.m).
 
 ### Wednesday March 17th. Midterm exam (time may change)
 
