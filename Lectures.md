@@ -29,7 +29,7 @@ Floating-point arithmetic is covered in Chapter 5 of the Practice textbook, in m
 
 It is best to start working on the code (part 2) on your own before class, especially if you are new to Matlab/programming.
 
-### (Pre-recorded lecture Feb 18): [(Review of) Linear Algebra](Lectures/LinearAlgebra.pdf)
+### ([Pre-recorded lecture Feb 18](Lectures/LinearAlgebra2021.pdf)): [(Review of) Linear Algebra](Lectures/LinearAlgebra.pdf)
 
 Some of this is covered in Section 2.7 of the Theory textbook. For stability, also see Chapter 6 in Practice textbook. Being comfortable with linear algebra will be very important until midterm so it is important to review all of the PDF notes on your own.
 
