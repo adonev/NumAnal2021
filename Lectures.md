@@ -9,7 +9,7 @@ We will use the ancient yet still practical problem of [computing the square roo
 
 Recitation leader will start doing Intro to Matlab ([week 1 intro](Matlab/matlab_tutorial_demo_week1.m), [week 2 intro](Matlab/matlab_tutorial_demo_week2.m)). Here are some notes on [Peculiarities of Matlab](Lectures/Matlab.pdf) for those with some programming experience.
 
-### 2 ([Feb 8 and 10 and pre-recorded lecture](Lectures/Nonlinear1D2021.pdf)). [Solving Nonlinear Equations in 1D](Lectures/NonlinearEqs.pdf)
+### 2 ([Feb 8 and 10 and 11 (pre-recorded)](Lectures/Nonlinear1D2021.pdf)). [Solving Nonlinear Equations in 1D](Lectures/NonlinearEqs.pdf)
 
 We will study (try out and analyze) several methods for solving equations with one variable: bisection (code [Bisection.m](Matlab/Nonlinear/Bisection.m)), Newton's method (Babylonian method is an example), and the secant and Regula Falsi methods (code [Secant.m](Matlab/Nonlinear/Secant.m) -- as an exercise, add Newton's method to the plot and compare its rate of convergence to the secant method).
 
@@ -25,9 +25,17 @@ These are some typed-up notes based on my Scientific Computing class that cover 
 
 Floating-point arithmetic is covered in Chapter 5 of the Practice textbook, in more detail than we will go through in class. Here is the code [harmonic.m](Matlab/harmonic.m) and [harmonicSP.m](Matlab/harmonicSP.m) for single precision, which makes it easier to see the roundoff errors.
 
-### Thursday Feb 18th (makeup class): [Worksheet 1](Worksheets/worksheet1.pdf)
+### (Thursday Feb 18th (makeup class)) [Worksheet 1](Worksheets/worksheet1.pdf)
 
-### ...
+It is best to start working on the code (part 2) on your own before class, especially if you are new to Matlab/programming.
+
+### (Pre-recorded lecture Feb 18): [(Review of) Linear Algebra](Lectures/LinearAlgebra.pdf)
+
+Some of this is covered in Section 2.7 of the Theory textbook. For stability, also see Chapter 6 in Practice textbook. Being comfortable with linear algebra will be very important until midterm so it is important to review all of the PDF notes on your own.
+
+### (Feb 22 and 25 (pre-recorded) and March 1) Solving **square** linear systems
+
+I think this is explained better and more straightforwardly in the Practice textbook Chapter 7 than in Chapter 2 of Theory textbook. However, I will not directly follow either one.
 
 ### Wednesday March 17th. Midterm exam (time may change)
 
