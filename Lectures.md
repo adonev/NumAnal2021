@@ -37,6 +37,8 @@ Some of this is covered in Section 2.7 of the Theory textbook. For stability, al
 
 I think this is explained better and more straightforwardly in the Practice textbook Chapter 7 than in Chapter 2 of Theory textbook. However, I will not directly follow either one. Here is the code [MyLU.m](Matlab/MyLU.m).
 
+### Extra [notes on solving linear systems](Lectures/LinearSystems.pdf)
+
 ### Wednesday March 17th. Midterm exam (time may change)
 
 ### No class Mon April 19th (Break)
