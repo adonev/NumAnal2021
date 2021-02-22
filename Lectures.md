@@ -33,7 +33,7 @@ It is best to start working on the code (part 2) on your own before class, espec
 
 Some of this is covered in Section 2.7 of the Theory textbook. For stability, also see Chapter 6 in Practice textbook. Being comfortable with linear algebra will be very important until midterm so it is important to review all of the PDF notes on your own.
 
-### 6 (Feb 22 and 25 (pre-recorded) and March 1) [Solving **square** linear systems](Lectures/LinearSystems2021.pdf)
+### 6 ([Feb 22 and 25 (pre-recorded) and March 1](Lectures/LinearSystems2021.pdf)) [Solving **square** linear systems](Lectures/SquareSystems.pdf)
 
 I think this is explained better and more straightforwardly in the Practice textbook Chapter 7 than in Chapter 2 of Theory textbook. However, I will not directly follow either one. Here is the code [MyLU.m](Matlab/MyLU.m).
 
