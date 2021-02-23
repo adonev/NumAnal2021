@@ -32,10 +32,10 @@ Present your information effectively:
 
 Submit the solution on Gradescope.
 
+### 2. (posted Feb 23, due March 8th at 2pm EST)  [Roundoff error and systems of linear equations](Assignments/assignment2.pdf)
+
+Submit the solution on Gradescope.
+
 <!---
-
-### 2. (example) [Linear Systems](Assignments/Homework-LinearSystems.pdf)
-
 Commented out example
-
 --->
