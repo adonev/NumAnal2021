@@ -28,7 +28,7 @@ Present your information effectively:
 
 ## Homework assignments
 
-### 1. (posted Feb 9, due Feb 22 at 2pm EST)  [Solving nonlinear equations in one dimension](Assignments/assignment1.pdf)
+### 1. (posted Feb 9, due Feb 24 at 2pm EST)  [Solving nonlinear equations in one dimension](Assignments/assignment1.pdf)
 
 Submit the solution on Gradescope.
 
