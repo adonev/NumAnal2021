@@ -8,4 +8,6 @@ layout: default
 
 <!---
 
+### [Worksheet 2 example code](Matlab/Nonlinear/Newton2D.m)
+
 --->
