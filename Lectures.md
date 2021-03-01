@@ -49,7 +49,7 @@ This worksheet gives one motivation for why solving linear systems is a central 
 
 This worksheet is an example of a kind of problem you may see on the midterm exam, though it would be shorter on the exam.
 
-### 9 (Pre-recorded lecture March 4th) [Systems of Nonlinear Equations]
+### 9 (Pre-recorded lecture March 4th) [Systems of Nonlinear Equations](Lectures/NewtonHigherD.pdf)
 
 This material is covered in Chapter 4 of the theory textbook but I will only cover Newton's method and not follow the book. In particular I will give not a strict proof of second-order convergence but rather an estimate that is the analog of what we did in 1D.
 
