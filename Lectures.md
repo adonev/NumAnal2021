@@ -15,7 +15,7 @@ We will study (try out and analyze) several methods for solving equations with o
 
 This covers sections 1.1 and 1.4-1.6 in Theory textbook (Suli & Mayers), but see also Definition 1.4. Fixed-point iteration (sections 1.2 and 1.3) will be briefly covered in a pre-recorded lecture; for an example see the code [NonBabylonian.m](Matlab/Nonlinear/NonBabylonian.m) from the previous lecture.
 
-### Extra [notes on solving nonlinear equations](Lectures/Nonlinear1D.pdf)
+#### Extra [notes on solving nonlinear equations](Lectures/Nonlinear1D.pdf)
 
 These are some typed-up notes based on my Scientific Computing class that cover solving nonlinear equations including systems of equations. Useful as a reference/summary **after** you cover and understand the class material.
 
@@ -37,11 +37,25 @@ Some of this is covered in Section 2.7 of the Theory textbook. For stability, al
 
 I think this is explained better and more straightforwardly in the Practice textbook Chapter 7 than in Chapter 2 of Theory textbook. However, I will not directly follow either one. Here is the code [MyLU.m](Matlab/MyLU.m).
 
-#### 7 (Feb 24th) [Worksheet 2](Worksheets/worksheet2.pdf)
+#### Extra [notes on solving linear systems](Lectures/LinearSystems.pdf)
+
+Some typed-up notes that may be useful for reviewing and synthesizing the material in the future.
+
+### 7 (Feb 24th) [Worksheet 2](Worksheets/worksheet2.pdf)
 
 This worksheet gives one motivation for why solving linear systems is a central topic in numerical computing, extending to many topics including solving equations, optimization, function approximation, etc.
 
-### Extra [notes on solving linear systems](Lectures/LinearSystems.pdf)
+### 8 (March 3rd) [Worksheet 3](Worksheets/worksheet3.pdf)
+
+This worksheet is an example of a kind of problem you may see on the midterm exam, though it would be shorter on the exam.
+
+### 9 (Pre-recorded lecture March 4th) [Systems of Nonlinear Equations]
+
+This material is covered in Chapter 4 of the theory textbook but I will only cover Newton's method and not follow the book.
+
+#### Extra [notes on nonlinear systems](Lectures/Nonlinear1D.pdf)
+
+Section 3 in these typed-up notes covers Newton's Method for nonlinear systems.
 
 ### Wednesday March 17th. Midterm exam (time may change)
 
