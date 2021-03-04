@@ -57,6 +57,14 @@ This material is covered in Chapter 4 of the theory textbook but I will only cov
 
 Section 3 in these typed-up notes covers Newton's Method for nonlinear systems.
 
+### 10 (March 8th and 10th) [Overdetermined Linear Systems](Lectures/LeastSquares.pdf)
+
+Overdetermined linear systems are covered in the Practice textbook in Chapter 7 and also in Chapter 2 of Theory textbook.
+
+### 11 (March 15 or 17) [Detour: Symbolic Algebra using Maple](Lectures/MapleHW1.pdf)
+
+We will solve some parts of HW1 using the symbolic algebra tool [Maple](https://www.maplesoft.com/products/Maple/students/) (equally good to use [Mathematica](https://www.nyu.edu/life/information-technology/getting-started/software/mathematica.html)) and emphasize how symbolic algebra is different from floating-point algebra.
+
 ### Wednesday March 17th. Midterm exam (time may change)
 
 ### No class Mon April 19th (Break)
