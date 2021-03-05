@@ -38,6 +38,10 @@ Submit the solution on Gradescope.
 
 Submit the solution on Gradescope.
 
+### 3. (posted March 5th, due March 17th at 2pm EST)  [Overdetermined linear systems](Assignments/assignment3.pdf)
+
+Submit the solution on Gradescope.
+
 <!---
 Commented out example
 --->
