@@ -57,7 +57,7 @@ This material is covered in Chapter 4 of the theory textbook but I will only cov
 
 Section 3 in these typed-up notes covers Newton's Method for nonlinear systems.
 
-### 10 (March 8th and 10th) [Overdetermined Linear Systems](Lectures/LeastSquares.pdf)
+### 10 ([March 8th and 10th](Lectures/LeastSquares2021.pdf)) [Overdetermined Linear Systems](Lectures/LeastSquares.pdf)
 
 Overdetermined linear systems are covered in the Practice textbook in Chapter 7 and also in Chapter 2 of Theory textbook.
 
