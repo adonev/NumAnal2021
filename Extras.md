@@ -8,5 +8,7 @@ layout: default
 
 ### [Worksheet 2 example code](Matlab/Nonlinear/Newton2D.m)
 
+### [Worksheet 3 example code](Matlab/LinearLeastSqs.m)
+
 <!---
 --->
