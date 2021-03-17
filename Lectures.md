@@ -65,7 +65,9 @@ Overdetermined linear systems are covered in the Practice textbook in Chapter 7 
 
 This worksheet illustrates data fitting and goes along with Homework 3.
 
-### 12 (March 17th) [Detour: Symbolic Algebra using Maple](Lectures/MapleHW1.pdf)
+### 12 (March 17th) [Detour: Symbolic Algebra using Maple](Lectures/MapleHW1.pdf) 
+
+See [Maple code](Lectures/MapleHW1.mw) if you have access to Maple.
 
 We will solve some parts of HW1 using the symbolic algebra tool [Maple](https://www.maplesoft.com/products/Maple/students/) (equally good to use [Mathematica](https://www.nyu.edu/life/information-technology/getting-started/software/mathematica.html)) and emphasize how symbolic algebra is different from floating-point algebra.
 
