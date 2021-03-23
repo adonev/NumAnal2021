@@ -73,12 +73,16 @@ We will solve some parts of HW1 using the symbolic algebra tool [Maple](https://
 
 ### Wednesday **March 17th at 8pm** Midterm exam over zoom
 
-### 13 (March 22nd) [Mathematics of eigen and singular values](Lectures/LinearAlgebra.pdf)
+### 13 ([March 22nd](Lectures/LinearAlgebra2021.pdf)) [Mathematics of eigen and singular values](Lectures/LinearAlgebra.pdf)
 
 I will review important things from linear algebra regarding eigen and singular values of matrices, see section 5 in the [typed notes](Lectures/LinearAlgebra.pdf).
 
-### 14 (March 24th) [Power method for eigenvalues](Lectures/EigenvaluesPower.pdf)
+### 14 (March 24th) [Power method for eigenvalues](Lectures/EigenSingularValues.pdf)
 
 We will go over the power method for computing the largest (in modulus) eigenvalue and associated eigenvector. If you wish, learn how the [Google PageRank algorithm is related to the power method](https://en.wikipedia.org/wiki/PageRank#Power_method).
+
+### 15 (March 29th and July 1st (pre-recorded)) [Singular Value Decomposition (SVD)](Lectures/EigenSingularValues.pdf)
+
+We will finish our discussion of the [mathematics of the SVD](Lectures/LinearAlgebra2021.pdf) and then discuss the uses and power of the SVD. Here is the code [Compression.m](Matlab/Compression.m) that compresses an image using truncated SVD (also called PCA).
 
 ### No class Mon April 19th (Break)
