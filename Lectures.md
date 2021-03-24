@@ -77,9 +77,9 @@ We will solve some parts of HW1 using the symbolic algebra tool [Maple](https://
 
 I will review important things from linear algebra regarding eigen and singular values of matrices, see section 5 in the [typed notes](Lectures/LinearAlgebra.pdf).
 
-### 14 (March 24th) [Power method for eigenvalues](Lectures/EigenSingularValues.pdf)
+### 14 ([March 24th](Lectures/Eigenvalues2021.pdf)) [Power method for eigenvalues](Lectures/EigenSingularValues.pdf)
 
-We will go over the power method for computing the largest (in modulus) eigenvalue and associated eigenvector. If you wish, learn how the [Google PageRank algorithm is related to the power method](https://en.wikipedia.org/wiki/PageRank#Power_method).
+We will go over the power method for computing the largest (in modulus) eigenvalue and associated eigenvector. If you wish, learn how the [Google PageRank algorithm is related to the power method](https://en.wikipedia.org/wiki/PageRank#Power_method) -- I recommend reading the paper ["The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google"](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf).
 
 ### 15 (March 29th and July 1st (pre-recorded)) [Singular Value Decomposition (SVD)](Lectures/EigenSingularValues.pdf)
 

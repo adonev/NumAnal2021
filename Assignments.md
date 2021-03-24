@@ -42,6 +42,10 @@ Submit the solution on Gradescope.
 
 Submit the solution on Gradescope.
 
+### 4. (posted March 24th, due April 7th at 2pm EST)  [Eigenvalues and Eigenvectors](Assignments/assignment4.pdf)
+
+Submit the solution on Gradescope.
+
 <!---
 Commented out example
 --->
