@@ -81,8 +81,12 @@ I will review important things from linear algebra regarding eigen and singular 
 
 We will go over the power method for computing the largest (in modulus) eigenvalue and associated eigenvector. If you wish, learn how the [Google PageRank algorithm is related to the power method](https://en.wikipedia.org/wiki/PageRank#Power_method) -- I recommend reading the paper ["The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google"](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf).
 
-### 15 (March 29th and July 1st (pre-recorded)) [Singular Value Decomposition (SVD)](Lectures/EigenSingularValues.pdf)
+### 15 (March 29th and April 1st (pre-recorded)) [Singular Value Decomposition (SVD)](Lectures/EigenSingularValues.pdf)
 
 We will finish our discussion of the [mathematics of the SVD](Lectures/LinearAlgebra2021.pdf) and then discuss the uses and power of the SVD. Here is the code [Compression.m](Matlab/Compression.m) that compresses an image using truncated SVD (also called PCA), as well as the code [PCA_demo.m](Matlab/PCA_demo.m) (from Brennan Sprinkle) that shows how PCA can reveal the rigth way to look at data to discover some hidden structure.
+
+### 16 (March 31st) [Worksheet 5](Worksheets/worksheet5.pdf)
+
+This worksheet illustrates how the pseudoinverse can be used to solve linear systems and deal with ill-conditioning.
 
 ### No class Mon April 19th (Break)
