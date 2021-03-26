@@ -83,6 +83,6 @@ We will go over the power method for computing the largest (in modulus) eigenval
 
 ### 15 (March 29th and July 1st (pre-recorded)) [Singular Value Decomposition (SVD)](Lectures/EigenSingularValues.pdf)
 
-We will finish our discussion of the [mathematics of the SVD](Lectures/LinearAlgebra2021.pdf) and then discuss the uses and power of the SVD. Here is the code [Compression.m](Matlab/Compression.m) that compresses an image using truncated SVD (also called PCA).
+We will finish our discussion of the [mathematics of the SVD](Lectures/LinearAlgebra2021.pdf) and then discuss the uses and power of the SVD. Here is the code [Compression.m](Matlab/Compression.m) that compresses an image using truncated SVD (also called PCA), as well as the code [PCA_demo.m](Matlab/PCA_demo.m) (from Brennan Sprinkle) that shows how PCA can reveal the rigth way to look at data to discover some hidden structure.
 
 ### No class Mon April 19th (Break)
