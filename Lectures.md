@@ -75,19 +75,15 @@ We will solve some parts of HW1 using the symbolic algebra tool [Maple](https://
 
 ### 13 ([March 22nd and 24th and April 1st](Lectures/Eigenvalues2021.pdf)) [Eigenvalues of matrices](Lectures/EigenSingularValues.pdf)
 
-#### March 22nd: [Math background](Lectures/LinearAlgebra.pdf)
-We will begin by reviewing important things from linear algebra regarding eigenvalues of matrices, see section 5 in the [typed notes](Lectures/LinearAlgebra.pdf).
+#### March 22nd: We will begin by reviewing important things from linear algebra regarding eigenvalues of matrices, see section 5 in the [typed notes](Lectures/LinearAlgebra.pdf).
 
-#### March 24th: [Power method for eigenvalues](Lectures/EigenSingularValues.pdf)
-We will go over the power method for computing the largest (in modulus) eigenvalue and associated eigenvector using the power method. If you wish, learn how the [Google PageRank algorithm is related to the power method](https://en.wikipedia.org/wiki/PageRank#Power_method) -- I recommend reading the paper ["The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google"](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf).
+#### March 24th: We will go over the power method for computing the largest (in modulus) eigenvalue and associated eigenvector using the power method. If you wish, learn how the [Google PageRank algorithm is related to the power method](https://en.wikipedia.org/wiki/PageRank#Power_method) -- I recommend reading the paper ["The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google"](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf).
 
-#### April 1st (pre-recorded): [QR method for eigenvalues](Lectures/EigenSingularValues.pdf)
-
-I will try to give a sketch for how QR factorization can be used to compute all eigenvalues of a symmetric matrix.
+#### April 1st (pre-recorded): I will try to give a sketch for how QR factorization can be used to compute all eigenvalues of a symmetric matrix.
 
 ### 15 ([March 29th](Lectures/SingularValues2021.pdf)) [Singular Value Decomposition (SVD)](Lectures/EigenSingularValues.pdf)
 
-We will finish our discussion of the [mathematics of the SVD](Lectures/LinearAlgebra2021.pdf) and then discuss the uses and power of the SVD. Here is the code [Compression.m](Matlab/Compression.m) that compresses an image using truncated SVD (also called PCA), as well as the code [PCA_demo.m](Matlab/PCA_demo.m) (from Brennan Sprinkle) that shows how PCA can reveal the rigth way to look at data to discover some hidden structure.
+We will finish our discussion of the mathematics of the SVD and then discuss the uses and power of the SVD. Here is the code [Compression.m](Matlab/Compression.m) that compresses an image using truncated SVD (also called "principal component analysis" or PCA), as well as the code [PCA_demo.m](Matlab/PCA_demo.m) (from Brennan Sprinkle) that shows how PCA can reveal the rigth way to look at data to discover some hidden structure.
 
 ### 16 (March 31st) [Worksheet 5](Worksheets/worksheet5.pdf)
 
