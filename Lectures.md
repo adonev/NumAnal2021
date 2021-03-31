@@ -79,7 +79,7 @@ We will solve some parts of HW1 using the symbolic algebra tool [Maple](https://
 
 #### March 24th: We will go over the power method for computing the largest (in modulus) eigenvalue and associated eigenvector using the power method. If you wish, learn how the [Google PageRank algorithm is related to the power method](https://en.wikipedia.org/wiki/PageRank#Power_method) -- I recommend reading the paper ["The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google"](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf).
 
-#### April 1st (pre-recorded): I will try to give a sketch for how QR factorization can be used to compute all eigenvalues of a symmetric matrix.
+#### April 1st (pre-recorded): I will try to give a sketch for how QR factorization can be used to compute all eigenvalues of a symmetric matrix. Here is the code [QR.m](Matlab/QR.m).
 
 ### 15 ([March 29th](Lectures/SingularValues2021.pdf)) [Singular Value Decomposition (SVD)](Lectures/EigenSingularValues.pdf)
 
