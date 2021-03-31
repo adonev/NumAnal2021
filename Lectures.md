@@ -93,7 +93,7 @@ We will finish our discussion of the mathematics of the SVD and then discuss the
 
 This worksheet illustrates how the pseudoinverse can be used to solve linear systems and deal with ill-conditioning.
 
-### 17 (March 5th, 7th) Polynomial Interpolation
+### 17 (March 5th, 7th) [Polynomial Interpolation](Lectures/PolynomialInterpolation.pdf)
 
 My lecture will roughly follow chapter 8 in the practice textbook. See chapter 6 in the theory textbook for more theoretical background.
 
