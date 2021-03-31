@@ -77,11 +77,15 @@ We will solve some parts of HW1 using the symbolic algebra tool [Maple](https://
 
 #### March 22nd: We will begin by reviewing important things from linear algebra regarding eigenvalues of matrices, see section 5 in the [typed notes](Lectures/LinearAlgebra.pdf).
 
+Eigenvalues and eigenvectors are covered in chapter 5 of the theory textbook.
+
 #### March 24th: We will go over the power method for computing the largest (in modulus) eigenvalue and associated eigenvector using the power method. If you wish, learn how the [Google PageRank algorithm is related to the power method](https://en.wikipedia.org/wiki/PageRank#Power_method) -- I recommend reading the paper ["The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google"](https://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf).
 
 #### April 1st (pre-recorded): I will try to give a sketch for how QR factorization can be used to compute all eigenvalues of a symmetric matrix. Here is the code [QR.m](Matlab/QR.m).
 
 ### 15 ([March 29th](Lectures/SingularValues2021.pdf)) [Singular Value Decomposition (SVD)](Lectures/EigenSingularValues.pdf)
+
+Unfortunately singular values are not covered in either of the two textbooks.
 
 We will finish our discussion of the mathematics of the SVD and then discuss the uses and power of the SVD. Here is the code [Compression.m](Matlab/Compression.m) that compresses an image using truncated SVD (also called "principal component analysis" or PCA), as well as the code [PCA_demo.m](Matlab/PCA_demo.m) (from Brennan Sprinkle) that shows how PCA can reveal the rigth way to look at data to discover some hidden structure.
 
@@ -90,6 +94,8 @@ We will finish our discussion of the mathematics of the SVD and then discuss the
 This worksheet illustrates how the pseudoinverse can be used to solve linear systems and deal with ill-conditioning.
 
 ### 17 (March 5th, 7th) Polynomial Interpolation
+
+My lecture will roughly follow chapter 8 in the practice textbook. See chapter 6 in the theory textbook for more theoretical background.
 
 For more advanced but illuminating reading, take a look at the essay ["Six Myths of Polynomial Interpolation and Quadrature"](https://people.maths.ox.ac.uk/trefethen/mythspaper.pdf) by Nick Trefethen.
 
