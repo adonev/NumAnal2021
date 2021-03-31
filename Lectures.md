@@ -89,4 +89,8 @@ We will finish our discussion of the mathematics of the SVD and then discuss the
 
 This worksheet illustrates how the pseudoinverse can be used to solve linear systems and deal with ill-conditioning.
 
+### 17 (March 5th, 7th) Polynomial Interpolation
+
+For more advanced but illuminating reading, take a look at the essay ["Six Myths of Polynomial Interpolation and Quadrature"](https://people.maths.ox.ac.uk/trefethen/mythspaper.pdf) by Nick Trefethen.
+
 ### No class Mon April 19th (Break)
