@@ -93,10 +93,14 @@ We will finish our discussion of the mathematics of the SVD and then discuss the
 
 This worksheet illustrates how the pseudoinverse can be used to solve linear systems and deal with ill-conditioning.
 
-### 17 (March 5th, 7th) [Polynomial Interpolation](Lectures/PolynomialInterpolation.pdf)
+### 17 (April 5th and 8th (pre-recorded)) [Polynomial Interpolation](Lectures/PolynomialInterpolation.pdf)
 
 My lecture will roughly follow chapter 8 in the practice textbook. See chapter 6 in the theory textbook for more theoretical background.
 
 For more advanced but illuminating reading, take a look at the essay ["Six Myths of Polynomial Interpolation and Quadrature"](https://people.maths.ox.ac.uk/trefethen/mythspaper.pdf) by Nick Trefethen.
+
+### 18 (April 7th) [Worksheet 6](Worksheets/worksheet6.pdf)
+
+This worksheet illustrates problems with using equi-spaced interpolation nodes and a possible fix. This worksheet should be completed before you watch the pre-recorded lecture from April 8th.
 
 ### No class Mon April 19th (Break)
