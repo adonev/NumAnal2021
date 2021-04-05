@@ -93,7 +93,7 @@ We will finish our discussion of the mathematics of the SVD and then discuss the
 
 This worksheet illustrates how the pseudoinverse can be used to solve linear systems and deal with ill-conditioning.
 
-### 17 (April 5th and 8th (pre-recorded)) [Polynomial Interpolation](Lectures/PolynomialInterpolation.pdf)
+### 17 ([April 5th and 8th (pre-recorded)](Lectures/PolynomialInterp2021.pdf)) [Polynomial Interpolation](Lectures/PolynomialInterpolation.pdf)
 
 My lecture will roughly follow chapter 8 in the practice textbook. See chapter 6 in the theory textbook for more theoretical background. Here is code [NodePoly.m](Matlab/NodePoly.m) to evaluate and plot the "nodal polynomial" for different choices of interpolation nodes.
 
