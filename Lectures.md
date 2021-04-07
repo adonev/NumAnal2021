@@ -95,7 +95,7 @@ This worksheet illustrates how the pseudoinverse can be used to solve linear sys
 
 ### 17 ([April 5th and 8th (pre-recorded)](Lectures/PolynomialInterp2021.pdf)) [Polynomial Interpolation](Lectures/PolynomialInterpolation.pdf)
 
-My lecture will roughly follow chapter 8 in the practice textbook. See chapter 6 in the theory textbook for more theoretical background. Here is code [NodePoly.m](Matlab/NodePoly.m) to evaluate and plot the "nodal polynomial" for different choices of interpolation nodes.
+My lecture will roughly follow chapter 8 in the practice textbook. See chapter 6 in the theory textbook for more theoretical background. Here is code [NodePoly.m](Matlab/NodePoly.m) to evaluate and plot the "nodal polynomial" for different choices of interpolation nodes, and the code [RungeDemo.m](Matlab/RungeDemo.m) to illustrate the Runge phenomenon.
 
 For more advanced but illuminating reading, take a look at the essay ["Six Myths of Polynomial Interpolation and Quadrature"](https://people.maths.ox.ac.uk/trefethen/mythspaper.pdf) by Nick Trefethen.
 
