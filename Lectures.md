@@ -103,12 +103,16 @@ For more advanced but illuminating reading, take a look at the essay ["Six Myths
 
 This worksheet illustrates problems with using equi-spaced interpolation nodes and a possible fix. This worksheet should be completed before you watch the pre-recorded lecture from April 8th.
 
-### 19 (April 12th) Piecewise polynomial interpolation
+### 19 (April 12th) [Piecewise polynomial interpolation](Lectures/PiecewiseInterpolation.pdf)
+
+My lecture will follow closely section 8.6 in the Practice textbook.
 
 ### 20 (April 14th) [Worksheet 7](Worksheets/worksheet7.pdf)
 
 This worksheet gives you some practice with working with polynomial interpolants and develops some tools for upcoming lectures.
 
 ### 21 (April 15th (pre-recorded)) Optimal L2 function approximation
+
+We will start by covering some basic concepts about function spaces like inner products and norms, see Section 1 in these [typed up notes](Lectures/FunctionApprox.pdf).
 
 ### No class Mon April 19th (Break)
