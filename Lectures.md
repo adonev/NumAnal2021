@@ -103,7 +103,7 @@ For more advanced but illuminating reading, take a look at the essay ["Six Myths
 
 This worksheet illustrates problems with using equi-spaced interpolation nodes and a possible fix. This worksheet should be completed before you watch the pre-recorded lecture from April 8th.
 
-### 19 (April 12th) [Piecewise polynomial interpolation](Lectures/PiecewiseInterpolation.pdf)
+### 19 ([April 12th](Lectures/PiecewisePoly2021.pdf)) [Piecewise polynomial interpolation](Lectures/PiecewiseInterpolation.pdf)
 
 My lecture will follow closely section 8.6 in the Practice textbook.
 
