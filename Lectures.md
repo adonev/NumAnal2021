@@ -117,6 +117,6 @@ This worksheet gives you some practice with working with polynomial interpolants
 
 This worksheet illustrates how splines can be used to represent shapes like letters in a font.
 
-### 22 (April 22nd (pre-recorded)) Optimal L2 function approximation
+### 22 ([April 22nd (pre-recorded)](Lectures/FunctionalNorms2021.pdf)) Optimal L2 function approximation
 
 We will start by covering some basic concepts about function spaces like inner products and norms, see Section 1 in these [typed up notes](Lectures/FunctionApprox.pdf). Then we will go over optimal function approximation in the L2 norm and orthogonal polynomials, which is covered in Chapter 9 of the Theory textbook.
