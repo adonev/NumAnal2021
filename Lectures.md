@@ -116,3 +116,7 @@ This worksheet gives you some practice with working with polynomial interpolants
 We will start by covering some basic concepts about function spaces like inner products and norms, see Section 1 in these [typed up notes](Lectures/FunctionApprox.pdf).
 
 ### No class Mon April 19th (Break)
+
+### 22 (April 21st) [Worksheet 8](Worksheets/worksheet8.pdf)
+
+This worksheet illustrates how splines can be used to represent shapes like letters in a font.
