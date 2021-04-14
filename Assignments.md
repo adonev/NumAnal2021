@@ -46,7 +46,7 @@ Submit the solution on Gradescope.
 
 Submit the solution on Gradescope.
 
-### 5. (posted April 7th, due April 21st at 2pm EST)  [Polynomial interpolation/approximation](Assignments/assignment5.pdf)
+### 5. (posted April 7th, due April 26th at 2pm EST)  [Polynomial interpolation/approximation](Assignments/assignment5.pdf)
 
 Submit the solution on Gradescope.
 
