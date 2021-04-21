@@ -50,6 +50,10 @@ Submit the solution on Gradescope.
 
 Submit the solution on Gradescope.
 
+### 6. (posted April 21st, due May 10th at 2pm EST)  [Polynomial interpolation/approximation](Assignments/assignment6.pdf)
+
+Submit the solution on Gradescope.
+
 <!---
 Commented out example
 --->
