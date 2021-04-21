@@ -12,5 +12,7 @@ layout: default
 
 ### [Worksheet 5 example code](Matlab/PseudoinverseHilbert.m)
 
+### [Worksheet 8 example code](Matlab/SplineLetters.m)
+
 <!---
 --->
