@@ -119,7 +119,7 @@ This worksheet illustrates how splines can be used to represent shapes like lett
 
 ### 22 ([April 22nd (pre-recorded)](Lectures/FunctionalNorms2021.pdf), April 26th and 28th) [Optimal L2 function approximation](Lectures/PolynomialApproximation.pdf)
 
-We will start by covering some basic concepts about function spaces like inner products and norms, see Section 1 in these [typed up notes](Lectures/FunctionApprox.pdf). Then we will go over optimal function approximation in the L2 norm and orthogonal polynomials, which is covered in Chapter 9 of the Theory textbook.
+We will start by covering some basic concepts about function spaces like inner products and norms, see Section 1 in these [typed up notes](Lectures/FunctionApprox.pdf). Then we will go over optimal function approximation in the L2 norm and orthogonal polynomials, which is covered in Chapter 9 of the Theory textbook. Here is the demo code using the [chebfun package](https://www.chebfun.org/download/) [ApproxL2.m](Matlab/ApproxL2.m).
 
 ### 23 (May 3rd and May 5th) Integration/Quadrature
 
