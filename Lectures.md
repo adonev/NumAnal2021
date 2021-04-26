@@ -128,3 +128,6 @@ Wikipedia has a [table of Gaussian nodes and weights](https://en.wikipedia.org/w
 ### 24 (May 10th) Review for final
 
 ### 25 (May 12th, 7:30-9:30pm via zoom) **Final Exam**
+
+Here is a summary of important things from the [Numerical Linear Algebra](Lectures/ReviewLinearAlgebra.pdf) part of the course.
+
