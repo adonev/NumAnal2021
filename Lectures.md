@@ -123,6 +123,8 @@ We will start by covering some basic concepts about function spaces like inner p
 
 ### 23 (May 3rd and May 5th) Integration/Quadrature
 
+Wikipedia has a [table of Gaussian nodes and weights](https://en.wikipedia.org/wiki/Gaussian_quadrature#Gauss%E2%80%93Legendre_quadrature). The code [GLNodeWt.m](Matlab/GLNodeWt.m) can be used to compute the nodes and weights numerically for a given number of points.
+
 ### 24 (May 10th) Review for final
 
-### 25 (expected May 12th) Final Exam
+### 25 (May 12th, 7:30-9:30pm via zoom) **Final Exam**
