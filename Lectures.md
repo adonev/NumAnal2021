@@ -95,7 +95,7 @@ This worksheet illustrates how the pseudoinverse can be used to solve linear sys
 
 ### 17 ([April 5th and 8th (pre-recorded)](Lectures/PolynomialInterp2021.pdf)) [Polynomial Interpolation](Lectures/PolynomialInterpolation.pdf)
 
-My lecture will roughly follow chapter 8 in the practice textbook. See chapter 6 in the theory textbook for more theoretical background. Here is code [NodePoly.m](Matlab/NodePoly.m) to evaluate and plot the "nodal polynomial" for different choices of interpolation nodes, and the code [RungeDemo.m](Matlab/RungeDemo.m) to illustrate the Runge phenomenon.
+My lecture will roughly follow chapter 8 in the practice textbook, which everyone should read on their own in its entirety. See chapter 6 in the theory textbook for more theoretical background. Here is code [NodePoly.m](Matlab/NodePoly.m) to evaluate and plot the "nodal polynomial" for different choices of interpolation nodes, and the code [RungeDemo.m](Matlab/RungeDemo.m) to illustrate the Runge phenomenon.
 
 For more advanced but illuminating reading, take a look at the essay ["Six Myths of Polynomial Interpolation and Quadrature"](https://people.maths.ox.ac.uk/trefethen/mythspaper.pdf) by Nick Trefethen.
 
@@ -121,13 +121,15 @@ This worksheet illustrates how splines can be used to represent shapes like lett
 
 We will start by covering some basic concepts about function spaces like inner products and norms, see Section 1 in these [typed up notes](Lectures/FunctionApprox.pdf). Then we will go over optimal function approximation in the L2 norm and orthogonal polynomials, which is covered in Chapter 9 of the Theory textbook. Here is the demo code using the [chebfun package](https://www.chebfun.org/download/) [ApproxL2.m](Matlab/ApproxL2.m).
 
-### 23 (May 3rd and May 5th) Integration/Quadrature
+### 23 (May 3rd and May 5th) [Integration/Quadrature](Lectures/Quadrature.pdf)
+
+My lecture will be based on chapter 10 in the Practice textbook, which has more details and everyone should read on their own.
 
 Wikipedia has a [table of Gaussian nodes and weights](https://en.wikipedia.org/wiki/Gaussian_quadrature#Gauss%E2%80%93Legendre_quadrature). The code [GLNodeWt.m](Matlab/GLNodeWt.m) can be used to compute the nodes and weights numerically for a given number of points.
 
 ### 24 (May 10th) Review for final
 
-### 25 (May 12th, 7:30-9:30pm via zoom) **Final Exam**
-
 Here is a summary of important things from the [Numerical Linear Algebra](Lectures/ReviewLinearAlgebra.pdf) part of the course.
+
+### 25 (May 12th, 7:30-9:30pm via zoom) **Final Exam**
 
