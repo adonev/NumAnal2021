@@ -129,7 +129,7 @@ Wikipedia has a [table of Gaussian nodes and weights](https://en.wikipedia.org/w
 
 ### 24 (May 10th) Review for final
 
-Here is a summary of important things from the [Numerical Linear Algebra](Lectures/ReviewLinearAlgebra.pdf) part of the course.
+Here is a summary of important things from the [Numerical Linear Algebra](Lectures/ReviewLinearAlgebra.pdf) part of the course, and for [Solving Nonlinear Equations](Lectures/ReviewRoots.pdf).
 
 ### 25 (May 12th, 7:30-9:30pm via zoom) **Final Exam**
 
